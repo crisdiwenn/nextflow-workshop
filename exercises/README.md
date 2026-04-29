@@ -1,6 +1,6 @@
 # Workshop Exercises
 
-Exercise materials will be added here closer to the workshop date.
+Exercise materials will be added soon to the workshop date.
 
 Planned content:
 1. `01_hello_world/` — your first Nextflow pipeline

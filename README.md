@@ -6,7 +6,7 @@ A hands-on workshop for running reproducible bioinformatics pipelines with Nextf
 
 ---
 
-## Pre-flight checklist (do this 1 week before the workshop)
+## Pre-flight checklist (please do this before the workshop)
 
 ### Step 1 — Pick your operating system
 
