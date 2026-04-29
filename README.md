@@ -21,7 +21,7 @@ A hands-on workshop for running reproducible bioinformatics pipelines with Nextf
 
 **WSL2 / Linux:**
 ```bash
-git clone https://github.com/<your-username>/nextflow-workshop.git
+git clone https://github.com/crisdiwenn/nextflow-workshop.git
 cd nextflow-workshop
 chmod +x scripts/setup_linux.sh
 ./scripts/setup_linux.sh
@@ -29,7 +29,7 @@ chmod +x scripts/setup_linux.sh
 
 **macOS:**
 ```bash
-git clone https://github.com/<your-username>/nextflow-workshop.git
+git clone https://github.com/crisdiwenn/nextflow-workshop.git
 cd nextflow-workshop
 chmod +x scripts/setup_macos.sh
 ./scripts/setup_macos.sh
