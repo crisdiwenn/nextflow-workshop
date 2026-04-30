@@ -43,9 +43,9 @@ After the script finishes, **open a new terminal** and run:
 ./scripts/verify.sh
 ```
 
-You should see all green checkmarks. **Paste the output in the workshop Slack/Discord channel** so we know you're ready.
+You should see all green checkmarks.
 
-If anything fails, see [Troubleshooting](#troubleshooting) below or message in the workshop channel.
+If anything fails, see [Troubleshooting](#troubleshooting) below.
 
 ---
 
@@ -54,7 +54,6 @@ If anything fails, see [Troubleshooting](#troubleshooting) below or message in t
 - **Java 21** — Nextflow runtime requirement
 - **Nextflow 24.04.2** — pinned version so everyone runs the same code
 - **Container runtime** — Apptainer on Linux/WSL2, Docker Desktop on macOS
-- **nf-core tools** — for browsing and downloading curated pipelines
 
 Total disk: ~2 GB. Total time: ~15 minutes on a decent connection.
 
@@ -102,7 +101,6 @@ This caches them so the workshop runs offline.
 ## Resources
 
 - [Nextflow docs](https://www.nextflow.io/docs/latest/)
-- [nf-core pipelines](https://nf-co.re/pipelines)
 - [Biocontainers registry](https://biocontainers.pro/)
 - [Galaxy depot (SIF files)](https://depot.galaxyproject.org/singularity/)
 

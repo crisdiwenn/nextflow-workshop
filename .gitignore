@@ -1,11 +1,17 @@
-.DS_Store
-Thumbs.db
-*.swp
-.vscode/
-.idea/
+# Nextflow runtime
 work/
-.nextflow*
-*.sif
-*.log
-__pycache__/
-*.pyc
+.nextflow/
+.nextflow.log*
+
+# Pipeline outputs
+results/
+test_results/
+
+# Large data files
+*.fastq.gz
+*.fq.gz
+*.bam
+*.bai
+
+# Windows WSL artifacts
+*:Zone.Identifier

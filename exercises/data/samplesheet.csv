@@ -1,0 +1,4 @@
+sample_id,read1,read2
+NG-A6759_7C,../data/NG-A6759_7C_libLAT6144_1.fastq.gz,../data/NG-A6759_7C_libLAT6144_2.fastq.gz
+NG-A6759_9B,../data/NG-A6759_9B_libLAT6149_1.fastq.gz,../data/NG-A6759_9B_libLAT6149_2.fastq.gz
+NG-A6759_10B,../data/NG-A6759_10B_libLAT6152_1.fastq.gz,../data/NG-A6759_10B_libLAT6152_2.fastq.gz
