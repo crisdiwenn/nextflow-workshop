@@ -59,6 +59,30 @@ Total disk: ~2 GB. Total time: ~15 minutes on a decent connection.
 
 ---
 
+## Before workshop day (do this the day before or morning of)
+
+You already have the repo — just pull the latest exercise files and download the data.
+
+### Step 1 — Update your local copy
+
+```bash
+cd nextflow-workshop
+git pull
+```
+
+### Step 2 — Download the workshop data
+
+```bash
+cd exercises/data
+scp -r cid@remote12.chalmers.se:~/My_Areas/Linux/bioresourcelabs/Bioinformatics_course/Data_for_nextflow_tutorial/*.fastq.gz .
+```
+
+Replace `cid` with your Chalmers CID. You will be prompted for your password.
+
+Once done, `exercises/data/` should contain six `.fastq.gz` files (three samples, paired-end).
+
+---
+
 ## Workshop day
 
 We'll work through three exercises:
