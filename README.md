@@ -74,7 +74,7 @@ git pull
 
 ```bash
 cd exercises/data
-scp -r cid@remote12.chalmers.se:~/My_Areas/Linux/bioresourcelabs/Bioinformatics_course/Data_for_nextflow_tutorial/*.fastq.gz .
+scp -r cid@remote12.chalmers.se:~/My_Areas/Linux/bioresource-labs/Bioinformatics_course/Data_for_nextflow_tutorial/*.fastq.gz .
 ```
 
 Replace `cid` with your Chalmers CID. You will be prompted for your password.
